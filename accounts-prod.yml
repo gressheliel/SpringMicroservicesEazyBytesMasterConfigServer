@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs, from the config server! WebHook"
+  message: "Welcome to EazyBank accounts related prod APIs, from the config server! WebHook con Ngrok"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}2e3302e05524ae126fa1e1ff45cabbf8bb86a8073e117116d08d6507b77245b4e18edeec40d53204c5a814cacf7d9600"
